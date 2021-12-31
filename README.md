@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[nguyenhuuvu.com](https://nguyenhuuvu.com/)**
+- 🔭 I’m currently working on **[nguyenhuuvu.com](https://chat.nguyenhuuvu.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, NodeJs, Java(Spring Boot).**
 
