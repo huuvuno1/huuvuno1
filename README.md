@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[nguyenhuuvu.com](https://chat.nguyenhuuvu.com/)**
+- 🔭 I’m currently working on **[nguyenhuuvu.pro](https://chat.nguyenhuuvu.pro/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, NodeJs, Java(Spring Boot).**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my cv are available at **[My CV](https://cv.nguyenhuuvu.com)**
+- 👨‍💻 All of my cv are available at **[My CV](https://nguyenhuuvu.pro)**
 
 - 📫 How to reach me **nguyenhuuvuno1@gmail.com**
 
