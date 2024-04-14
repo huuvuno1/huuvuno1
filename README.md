@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyễn Hữu Vũ</h1>
-<h3 align="center">I am a 3rd year student at Hanoi Open University.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -63,12 +62,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/huuvuno1/count.svg" />
 </p>
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=huuvuno1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
