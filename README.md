@@ -93,7 +93,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake animation](https://github.com/<seu huuvuno1>/<seu huuvuno1>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
   <br/><br/><br/>
 </div>
 
