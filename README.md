@@ -39,8 +39,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C# logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
@@ -57,15 +55,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.net&logoColor=white" alt="ASP.NET Core logo" title="ASP.NET Core" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
@@ -82,8 +74,6 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown logo" title="Markdown" height="25" /></span>
 &nbsp;
